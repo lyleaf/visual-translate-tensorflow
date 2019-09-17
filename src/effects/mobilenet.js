@@ -22,7 +22,7 @@ import {FUN_CLASSES} from './imagenet_classes';
 
 
 const GOOGLE_CLOUD_STORAGE_DIR =
-    'https://storage.googleapis.com/user_yiling/model.json';
+    'https://storage.googleapis.com/user_yiling/grab/model.json';
 const MODEL_FILE_URL = '';
 const INPUT_NODE_NAME = 'input';
 const OUTPUT_NODE_NAME = 'final_result';
